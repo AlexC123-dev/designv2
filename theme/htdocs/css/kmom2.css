@@ -4982,17 +4982,8 @@ a.rm-button.rm-clicked .rm-button-face-2 {
  * This stylesheet is for the design course and kmom01. Fill it with style
  * to style up the website so it is useable.
  */
-* {
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
-}
 /* Background color */
 /* inner-wrap */
-.inner-wrap {
-  width: 80%;
-  margin: 0 auto;
-}
 /* Footer block */
 /* Navbar */
 /**
@@ -5020,6 +5011,11 @@ body {
   color: #333;
   background-color: #ffe6cc;
   font: 100.01%/1 serif;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 /**
  * Layout style for general structure of header, navbar, main, footer
