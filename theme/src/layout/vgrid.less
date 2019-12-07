@@ -7,7 +7,8 @@
 */
 @ftcolor: orange;
 @innewrapcolor: #ccc;
-
+@footertext: #ffffff;
+@articlec: black;
 /**
   * General layout
 */
@@ -178,6 +179,13 @@
 .article p {
   width: @frontSizeBody * 20;
   padding-bottom: @frontSizeBody * 1;
+}
+
+.article h1 {
+    color: @articlec;
+}
+.footer-column-x p, h4 {
+    color: @footertext;
 }
 /* Footer */
 .footer-column {

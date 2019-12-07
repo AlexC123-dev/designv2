@@ -5191,7 +5191,7 @@ a.rm-button.rm-clicked .rm-button-face-2 {
 }
 /* Outer footer */
 .outer-wrap-footer {
-  background-color: orange;
+  background-color: #ffff00;
   color: white;
 }
 /* inner footer */
@@ -5234,11 +5234,11 @@ a.rm-button.rm-clicked .rm-button-face-2 {
   padding-bottom: 18px;
 }
 .article h1 {
-  color: black;
+  color: #ff6600;
 }
 .footer-column-x p,
 h4 {
-  color: #ffffff;
+  color: black;
 }
 /* Footer */
 .footer-column {
@@ -5349,13 +5349,13 @@ h4 {
  */
 html {
   overflow-y: scroll;
-  background-color: orange;
+  background-color: #ffffff;
 }
 body {
   margin: 0;
   padding: 0;
   color: #333;
-  background-color: #ffe6cc;
+  background-color: #ff0000;
   font: 16px/1.5 "sans-serif";
 }
 * {

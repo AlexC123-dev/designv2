@@ -5233,6 +5233,13 @@ a.rm-button.rm-clicked .rm-button-face-2 {
   width: 360px;
   padding-bottom: 18px;
 }
+.article h1 {
+  color: black;
+}
+.footer-column-x p,
+h4 {
+  color: #ffffff;
+}
 /* Footer */
 .footer-column {
   display: inline;
