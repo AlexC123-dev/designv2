@@ -1,5 +1,5 @@
 /*!
- * LESS version of the stylesheet for design kmom03.
+ * LESS version of the stylesheet for design Kmom05.
  *
  * This stylesheet is for the design course and kmom03. Its intention is to
  * use kmom01.css and lessify the style and use this as a wrapper for the new
@@ -64,6 +64,12 @@
     @gridImage: "../img/magic-number-@{magicNumber}.png";
     #desinax-hgrid.showGrid(@gridImage);
 }
+ /**
+  * Figure and figcaption for images and other media using figure/figcaption
+  */
+@import "@desinax/figure/less/asciinema.less";
+@import "@desinax/figure/less/codepen.less";
+@import "@desinax/figure/less/figure.less";
 
 /**
  * A responsive menu.
@@ -77,7 +83,6 @@
 //@import "base/base.less";
 @import "base/base_kmom03.less";
 //@import "base/base.less";
-
 
 /**
  * My own settings, not currently in their own module.

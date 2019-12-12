@@ -5189,6 +5189,19 @@ a.rm-button.rm-clicked .rm-button-face-2 {
     margin-left: 0.52083333%;
   }
 }
+figure.figure.right {
+  float: right;
+  margin-left: 5em;
+}
+figure.asciinema,
+figure.codepen,
+figure.figure,
+figure.figure-codepen {
+  display: table;
+  padding: 0;
+  margin: 0;
+  margin-bottom: 24px;
+}
 /* Outer footer */
 .outer-wrap-footer {
   background-color: orange;

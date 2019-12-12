@@ -127,6 +127,21 @@
         #desinax-vgrid.push(0);
      }
 }
+// Enable style from the module and optinally add customized layout
+figure.figure .right {
+    #desinax-figure.figure();
+}
+
+figure.asciinema {
+    &:extend(figure.figure);
+    #desinax-figure.asciinema();
+}
+
+figure.codepen,
+figure.figure-codepen {
+    &:extend(figure.figure);
+    #desinax-figure.codepen();
+}
 /* Outer footer */
 .outer-wrap-footer {
   background-color: @ftcolor;
