@@ -1,5 +1,5 @@
 /*!
- * LESS version of the stylesheet for design kmom03.
+ * LESS version of the stylesheet for design Kmom06.
  *
  * This stylesheet is for the design course and kmom03. Its intention is to
  * use kmom01.css and lessify the style and use this as a wrapper for the new
@@ -5238,7 +5238,7 @@ img:hover {
   padding-bottom: 18px;
 }
 .article h1 {
-  color: green;
+  color: #4d4dff;
 }
 .footer-column-x p,
 h4 {
@@ -5343,6 +5343,18 @@ h4 {
   background-image: url("../img/magic-number-24px.png");
 }
 /**
+  * Figure and figcaption for images and other media using figure/figcaption
+  */
+/**
+ * Figure with ASCIINEMA
+ */
+/**
+ * Figure with Codepen
+ */
+/** --------------------------------------------------------------
+ * Figure through .figure
+ */
+/**
  * A responsive menu.
  */
 /**
@@ -5359,7 +5371,7 @@ body {
   margin: 0;
   padding: 0;
   color: #333;
-  background-color: #bfbfbf;
+  background-color: #ccffcc;
   font: 16px/1.5 'Source Sans Pro', serif;
 }
 * {
