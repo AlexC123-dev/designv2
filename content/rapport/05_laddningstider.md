@@ -17,7 +17,7 @@ Som hjälp för att klara av denna uppgift har vi använt oss utav Devtools, [Pa
 
 Resultat
 -----------------------
-Vårat [Excelark](https://docs.google.com/spreadsheets/d/1Vt5W0aDw1Lz0cDZFMxUTOe4LpDI0AtJM0pQyet1MQcw/edit#gid=0)
+Vårat [Excelark](https://docs.google.com/spreadsheets/d/1Vt5W0aDw1Lz0cDZFMxUTOe4LpDI0AtJM0pQyet1MQcw/edit?usp=sharing)
 
 ##### JULA
 [FIGURE src=image/jula.jpg?w=300]
